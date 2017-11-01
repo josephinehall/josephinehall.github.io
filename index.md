@@ -1,7 +1,3 @@
-# A New Ruby Toolbox at Kiwi Ruby 2017
-
-Hello Kiwi Ruby! Thanks for listening to me talk about our new tools for Ruby web app development <3 Want to learn more? Here are some resources to get you started.
-
 ## Slides
 
 ## Resources
