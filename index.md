@@ -1,6 +1,8 @@
+# Resources
+
 ## Slides
 
-## Resources
+## Documentation
 
 * [dry-rb documentation](http://dry-rb.org/)
 * [dry-rb on GitHub](https://github.com/dry-rb)
