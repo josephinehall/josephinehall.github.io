@@ -3,7 +3,7 @@
 ## Slides
 
 <script async class="speakerdeck-embed" data-id="c27567248fe3426a9bf2f46a76c8d649" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
+<p></p>
 
 ## Documentation
 
@@ -46,7 +46,7 @@ There are also others in the community who’ve been thinking and blogging about
 Tim's talk at RubyConf Malaysia - Real-world Functional Ruby (Thursday 12th October, 2017):
 
 <script async class="speakerdeck-embed" data-id="56e0222d16f048a98045d8b690060111" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
+<p></p>
 
 To learn more about rom-rb 4.0, check out Piotr Solnica’s talk from RailsClub this year:
 
